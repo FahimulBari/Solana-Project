@@ -1,0 +1,35 @@
+{
+  "name": "Yummy Pizza",
+  "symbol": "STKR",
+  "description": "A yummy delicious pizza sticker.",
+  "seller_fee_basis_points": 0,
+  "image": "https://gateway.lighthouse.storage/ipfs/bafkreidg5yl64or6na23l62xm5f5yv6npgxtkzcrllddlalrhulp3jyyy4",
+  "attributes": [],
+  "collection": {
+    "name": "Sticker Pack",
+    "family": "SolanaGame"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "7Cndq42N3bUoEQxFZToevwuo7iZt6HchYcLGhJaRMmVV",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://gateway.lighthouse.storage/ipfs/bafkreidg5yl64or6na23l62xm5f5yv6npgxtkzcrllddlalrhulp3jyyy4",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://coral-efficient-koala-902.mypinata.cloud/ipfs/bafkreidg5yl64or6na23l62xm5f5yv6npgxtkzcrllddlalrhulp3jyyy4",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreidg5yl64or6na23l62xm5f5yv6npgxtkzcrllddlalrhulp3jyyy4",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

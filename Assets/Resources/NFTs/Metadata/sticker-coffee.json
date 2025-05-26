@@ -1,0 +1,35 @@
+{
+  "name": "One Cup Coffee",
+  "symbol": "STKR",
+  "description": "A cozy sticker for coffee lovers.",
+  "seller_fee_basis_points": 0,
+  "image": "https://coral-efficient-koala-902.mypinata.cloud/ipfs/bafkreihbtpsr5ivvgfdexu4auuutn6nsbs2hadpprwstqnnm7a5w3vsx5y",
+  "attributes": [],
+  "collection": {
+    "name": "Sticker Pack",
+    "family": "SolanaGame"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "7Cndq42N3bUoEQxFZToevwuo7iZt6HchYcLGhJaRMmVV",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://coral-efficient-koala-902.mypinata.cloud/ipfs/bafkreihbtpsr5ivvgfdexu4auuutn6nsbs2hadpprwstqnnm7a5w3vsx5y",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreihbtpsr5ivvgfdexu4auuutn6nsbs2hadpprwstqnnm7a5w3vsx5y",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://ipfs.io/ipfs/bafkreihbtpsr5ivvgfdexu4auuutn6nsbs2hadpprwstqnnm7a5w3vsx5y",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

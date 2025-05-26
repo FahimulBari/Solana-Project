@@ -1,0 +1,35 @@
+{
+  "name": "Retro Disk",
+  "symbol": "STKR",
+  "description": "A retro disk with all your favourite music.",
+  "seller_fee_basis_points": 0,
+  "image": "https://gateway.lighthouse.storage/ipfs/bafkreibafzuswicyxht6eu56wwxxnqhhzhaq6qtrn5rxfq2ip6mqwe452u",
+  "attributes": [],
+  "collection": {
+    "name": "Sticker Pack",
+    "family": "SolanaGame"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "7Cndq42N3bUoEQxFZToevwuo7iZt6HchYcLGhJaRMmVV",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://gateway.lighthouse.storage/ipfs/bafkreibafzuswicyxht6eu56wwxxnqhhzhaq6qtrn5rxfq2ip6mqwe452u",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://coral-efficient-koala-902.mypinata.cloud/ipfs/bafkreibafzuswicyxht6eu56wwxxnqhhzhaq6qtrn5rxfq2ip6mqwe452u",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreibafzuswicyxht6eu56wwxxnqhhzhaq6qtrn5rxfq2ip6mqwe452u",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
